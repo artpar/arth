@@ -4,10 +4,8 @@ type: products
 image: /img/products-jumbotron.jpg
 heading: What we offer
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+ "We abuse land because we see it as a commodity belonging to us. When we see land as a community to which we belong, we may begin to use it with love and respect"
+-Aldo Leopold
 intro:
   blurbs:
     - image: /img/illustrations-coffee.svg
