@@ -4,8 +4,8 @@ type: products
 image: /img/products-jumbotron.jpg
 heading: What we offer
 description: >-
- "We abuse land because we see it as a commodity belonging to us. When we see land as a community to which we belong, we may begin to use it with love and respect"
- - Aldo Leopold
+  "We abuse land because we see it as a commodity belonging to us. When we see land as a community to which we belong, we may begin to use it with love and respect"
+  - Aldo Leopold
 intro:
   blurbs:
     - image: /img/illustrations-coffee.svg
