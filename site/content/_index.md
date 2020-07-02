@@ -1,6 +1,6 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
+title: Home
+subtitle: Searching a space in the universe where you can live in harmony and find your peace of mind & comfort.
 image: /img/home-jumbotron.jpg
 blurb:
     heading: Why Kaldi?
