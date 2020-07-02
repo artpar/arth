@@ -4,8 +4,9 @@ logo: "/img/logo.svg"
 contact_entries:
   - heading: Location
     text: Panjim, Goa
+    
   - heading: Working hours
-    text: 24X7X365X who knows
+    text: 24X7X365Xwho knows
 ---
 
 We’d love to get in touch with you and hear your ideas and
